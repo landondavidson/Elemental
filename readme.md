@@ -1,5 +1,6 @@
 #Purpose#
 To answer the following questions:
+
 1. What are the 5 most expensive items from each category?
 2. Which cds have a total running time longer than 60 minutes?
 3. Which authors have also released cds?
